@@ -4,7 +4,7 @@
 /**
  * Main - entry point
  * Description: checking n if it positive or negative or equal zero
- * Return: 0
+ * Return: Always 0 (Success)
  * main function for alx
  */
 int main(void)
