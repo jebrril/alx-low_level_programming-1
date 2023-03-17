@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Entry point
- * Description: checks on the last digit of the assigned var
+ * Description: printf alphabet a-z with \n
  * Return: Always 0 (success)
  */
 int main(void)
