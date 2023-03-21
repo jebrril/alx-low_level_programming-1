@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - Entry point
-* print_alphabet - shows the lowercase alphabet with \n.
+* print_alphabet - shows the lowercase alphabet with \n
 * description of print_alphabet - mained that amz
 */
 void print_alphabet(void)
