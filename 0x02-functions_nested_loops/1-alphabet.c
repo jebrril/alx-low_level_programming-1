@@ -2,7 +2,7 @@
 /**
 * main - Entry point
 * print_alphabet - shows the lowercase alphabet with \n.
-* function print_alphabet - mained
+* description function print_alphabet - mained
 */
 void print_alphabet(void)
 {
