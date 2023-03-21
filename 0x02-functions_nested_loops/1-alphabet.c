@@ -1,15 +1,15 @@
-#include <stdio.h>
+#include *main.h*
 /**
-* main - Entry point
-* print_alphabet - shows the lowercase alphabet
-* description of print_alphabet - mained that amz
+* print_alphabet - Prints the alphabet in lowercase
+* 
+* Return : Always 0 (success)
 */
 void print_alphabet(void)
 {
 int i;
 for (i = 'a'; i <= 'z'; i++)
 {
-putchar(i);
+_putchar(i);
 }
-putchar('\n');
+_putchar('\n');
 }
