@@ -3,7 +3,7 @@
  * main - Entry point
  * Description: print alphabet
  * Return: Always 0 (success)
- *print_alphabet - shows the lowercase English alphabet and ends with a line break.
+ * print_alphabet - shows the lowercase alphabet with \n.
  */
 void print_alphabet(void)
 {
